@@ -10,7 +10,7 @@ A minimal app to allow others to explore the nodeJS Event Emitter.
   This app requires NodeJS which can be found here: https://nodejs.org/
   
   Clone the repository:
-  git clone https://github.com/vbitzceo/NetCoreCountries.git
+  git clone https://github.com/vbitzceo/NodeJSUsingEventEmitter.git
   
   type node app.js or node appES6.js in your CLI.
 
